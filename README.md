@@ -1,4 +1,4 @@
-# wwc-workshop
+# ml-and-tf-101-workshop
 
 ## 1. Hello World
 ###     https://raw.githubusercontent.com/lakshya90/ml-and-tf-101/master/hello_world.py
